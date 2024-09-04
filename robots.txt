@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionfartul.github.io/sitemap.html.gz
+Sitemap: https://ionfartul.github.io/app/sitemap.html.gz
+Sitemap: https://ionfartul.github.io/assets/sitemap.html.gz
+Sitemap: https://ionfartul.github.io/css/sitemap.html.gz
+Sitemap: https://ionfartul.github.io/includes/sitemap.html.gz
+Sitemap: https://ionfartul.github.io/item/sitemap.html.gz
+Sitemap: https://ionfartul.github.io/src/sitemap.html.gz
